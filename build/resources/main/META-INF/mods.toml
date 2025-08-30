@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="timetravel_mod_theagesoftimes"
+version="1.0.0"
+displayName="Time Travel Mod (The Ages Of Times)"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Benji, MCreator"
+
+[[dependencies.timetravel_mod_theagesoftimes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
